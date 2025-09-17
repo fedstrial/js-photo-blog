@@ -1,0 +1,16 @@
+#title-container {
+    background-image: url("../assets/img/wall.png");
+}
+
+#main-container {
+    background-image: url("../assets/img/cork.png");
+    min-height: calc(100vh - 144px);
+}
+
+.text-sometype {
+    font-family: "Sometype Mono", "monospace";
+}
+
+.text-edu {
+    font-family: "Edu Tas Beginner", sans-serif;
+}
